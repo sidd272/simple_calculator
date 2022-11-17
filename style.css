@@ -1,0 +1,21 @@
+#num{
+    width: 310px;
+    margin: auto;
+}
+.custom {
+    width: 70px !important;
+}
+.custom2 {
+    width: 120px !important;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.row input{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.btn{
+    border: 2px solid black;
+}
